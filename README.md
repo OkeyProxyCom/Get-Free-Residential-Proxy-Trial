@@ -1,6 +1,8 @@
 # Get-Free-Residential-Proxy-Trial Guide
 Top Free Trial of Residential Proxies and Test Proxies Quality.
 
+![image](https://github.com/user-attachments/assets/9f00dc9e-723c-4492-b0e9-547e2050cb9c)
+
 # Maximizing the Advantages of Proxy Trials
 To get the most out of a proxy trial, it’s important to follow these strategic steps:
 
